@@ -1,8 +1,8 @@
 <?php
 
-include_once "Models/Attributes.php";
-include_once "Models/Tag.php";
-include_once "Models/Body.php";
+include_once "classes/Attributes.php";
+include_once "classes/Tag.php";
+include_once "classes/Body.php";
 
 $div = new Tag("div", []);
 
